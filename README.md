@@ -43,7 +43,7 @@ https://github.com/jh00nbr/Routerhunter-2.0
 
 https://github.com/lijiejie/BBScan
 
-### Waf类型检测工具
+Waf类型检测工具
 
 https://github.com/EnableSecurity/wafw00f
 
@@ -469,7 +469,7 @@ https://github.com/geeeeeeeeek/WeChatLuckyMoney
 
 https://github.com/yangyangwithgnu/hardseed
 
-以下内容来自：https://github.com/We5ter/Scanners-Box/blob/master/README_CN.md
+### 以下内容来自：https://github.com/We5ter/Scanners-Box/blob/master/README_CN.md
 
 子域名枚举类
 
